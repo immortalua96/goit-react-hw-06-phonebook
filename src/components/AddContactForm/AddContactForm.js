@@ -8,7 +8,6 @@ import { getContacts } from 'redux/selectors';
 import { Accent } from 'components/App/Styled';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css';
-
 const INITIAL_VALUES = {
   name: '',
   number: '',
